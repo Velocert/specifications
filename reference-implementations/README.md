@@ -1,1 +1,1 @@
-<!-- reference implementations -->
+Reference implementation of draft and published specifications.
